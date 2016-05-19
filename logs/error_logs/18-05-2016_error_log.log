@@ -1,0 +1,4 @@
+[Wed, 18 May 2016 15:40:37 +0700] [Array] [Warning(2): file_put_contents(C:/xampp4/htdocs/ienglish/cache/settings/vi_8f57ec1ae87d4f3cb6c7ba20520b42af_1e4e5f37524e3556d8a0854e59b6f357.cache): failed to open stream: No such file or directory] [FILE: /includes/core/filesystem_functions.php] [LINE: 755]
+[Wed, 18 May 2016 15:48:47 +0700] [Array] [Notice(8): Undefined variable: module] [FILE: /modules/menu/admin/link_module.php] [LINE: 75]
+[Wed, 18 May 2016 15:50:08 +0700] [Array] [Warning(2): opendir(C:/xampp4/htdocs/ienglish/tmp,C:/xampp4/htdocs/ienglish/tmp): The system cannot find the file specified. (code: 2)] [FILE: /includes/cronjobs/temp_download_destroy.php] [LINE: 20]
+[Wed, 18 May 2016 15:52:10 +0700] [Array] [Warning(2): opendir(C:/xampp4/htdocs/ienglish/cache,C:/xampp4/htdocs/ienglish/cache): The system cannot find the file specified. (code: 2)] [FILE: /includes/core/cache_functions.php] [LINE: 44]
